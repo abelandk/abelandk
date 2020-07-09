@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm a passionate Software Engineer currently working at Ericsson.
+
+I'm currently learning spring boot framework and react library.
+
+
 
 <!--
 **abelandk/abelandk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
