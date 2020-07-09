@@ -1,6 +1,6 @@
 ### I'm a passionate Software Engineer currently working at Ericsson.
 
-I'm currently learning spring boot framework and react library.
+I'm currently learning spring framework and react library.
 
 
 
